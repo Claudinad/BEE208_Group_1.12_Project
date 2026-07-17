@@ -56,24 +56,6 @@ BEE208-Hospital-Patient-Queue-Management-System/
 ```
 
 
-
-## Group Members
-
-| Name | Index Number |
-|------|--------------|
-| Your Name | Your Index Number |
-| Member 2 | |
-| Member 3 | |
-| Member 4 | |
-| Member 5 | |
-| Member 6 | |
-| Member 7 | |
-| Member 8 | |
-| Member 9 | |
-| Member 10 | |
-
-
-
 ## How to Run
 
 1. Clone or download this repository.
