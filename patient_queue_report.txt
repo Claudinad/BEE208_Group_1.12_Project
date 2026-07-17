@@ -1,0 +1,24 @@
+HOSPITAL PATIENT QUEUE MANAGEMENT SYSTEMQueue ReportQueue Number: 1
+Patient ID: P001
+Full Name: Jed Twumasi
+Age: 65
+Department: General OPD
+Reason for Visit: Review
+Priority Status: Priority
+----------------------------------------
+Queue Number: 2
+Patient ID: P002
+Full Name: Joshua Arko-Adjei
+Age: 30
+Department: Emergency Unit
+Reason for Visit: Accident
+Priority Status: Emergency
+----------------------------------------
+Queue Number: 3
+Patient ID: P003
+Full Name: Claudinad 
+Age: 22
+Department: General OPD
+Reason for Visit: Consultation
+Priority Status: Regular
+----------------------------------------
