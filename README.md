@@ -81,7 +81,6 @@ See [`pseudocode.md`](pseudocode.md) for the full pseudocode.
 
 See [`flowchart.png`](flowchart.png).
 
-![Flowchart](flowchart.png)
 
 The flowchart shows the Start, patient-count input, the registration loop, validation,
 priority decision points (Emergency, Priority, Regular, Invalid Record), display, file
