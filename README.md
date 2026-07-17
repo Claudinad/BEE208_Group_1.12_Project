@@ -132,4 +132,4 @@ functions) and what each member learned from the project._
 
 ---
 *Faculty of Engineering | Department of Electrical/Electronic Engineering | Douglas Ayitey*
-guid me on something
+
