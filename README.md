@@ -126,10 +126,10 @@ folder.
 
 ## 14. Challenges Faced and Lessons Learned
 
-_Discuss, as a group, the specific challenges you encountered while building this system
-(e.g. handling invalid numeric input, structuring the class, coordinating file I/O across
-functions) and what each member learned from the project._
+_1. Learning how to use GitHub for group collaboration, including inviting collaborators and managing commits.
+
+2. Coordinating the work so that different group members could complete their assigned tasks without overlapping.
+   
+3. Splitting the C++ programming work between two programmers while keeping the program functional._
 
 ---
-*Faculty of Engineering | Department of Electrical/Electronic Engineering | Douglas Ayitey*
-
