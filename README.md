@@ -9,18 +9,18 @@
 
 ## 1. Group Members
 
-| Student | Index Number | Suggested Responsibility |
+| Responsibilities | Index Number | Student |
 |---|---|---|
-| _Student 1 Name_ | _01245742B_ | Abaahom Sethyna Say |
-| _Student 2 Name_ | _01244782B_ | Joel Luke Kwadwo Agyei-Henaku |
-| _Student 3 Name_ | _01243253B_ | Sulemana Raihan Tuteya |
-| _Student 4 Name_ | _01242255B_ | Ankomah Richard Bamfo |
-| _Student 5 Name_ | _01243971B_ | Jedrek Twumasi Ankrah |
-| _Student 6 Name_ | _01243985B_ | Ako-Adjie Joshua Badu |
-| _Student 7 Name_ | _01245079B_ | Lamptey Nicholas |
-| _Student 8 Name_ | _01246485B_ | Odai Claudinad Afotey |
-| _Student 9 Name_ | _01242246B_ | Gifty Apuko |
-| _Student 10 Name_ | _01246286B_ | Komlakumah Wisdom |
+| _Project lead_ | _01245742B_ | Abaahom Sethyna Say |
+| _Algorithm writer_ | _01244782B_ | Joel Luke Kwadwo Agyei-Henaku |
+| _Pseudocode writer_ | _01243253B_ | Sulemana Raihan Tuteya |
+| _Flowchart designer_ | _01242255B_ | Ankomah Richard Bamfo |
+| _C++ programmer 1_ | _01243971B_ | Jedrek Twumasi Ankrah |
+| _C++ programmer 2_ | _01243985B_ | Ako-Adjie Joshua Badu |
+| _Testing and validation lead_ | _01245079B_ | Lamptey Nicholas |
+| _GitHub repository manager_ | _01246485B_ | Odai Claudinad Afotey |
+| _Documentation lead_ | _01242246B_ | Gifty Apuko |
+| _Presentation and defence lead_ | _01246286B_ | Komlakumah Wisdom |
 
 ---
 
