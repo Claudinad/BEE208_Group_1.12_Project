@@ -20,7 +20,7 @@
 | _Testing and validation lead_ | _01245079B_ | Lamptey Nicholas |
 | _GitHub repository manager_ | _01246485B_ | Odai Claudinad Afotey |
 | _Documentation lead_ | _01242246B_ | Gifty Apuko |
-| _Presentation and defence lead_ | _01246286B_ | Komlakuma Wisdom |
+| _Presentation and defence lead_ | _01246286B_ | Komlakumah Wisdom |
 
 ---
 
